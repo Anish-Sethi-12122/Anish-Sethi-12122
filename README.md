@@ -76,7 +76,7 @@ Class of 2029
 
 ### 📈
 
-**9.20**
+**9.35**
 
 Current CGPA
 
