@@ -1,27 +1,674 @@
+<!-- ======================================================= -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-sethi-dtu-cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sethi.dynasty123@gmail.com) 
+<!--                     HERO SECTION                        -->
 
-## ⭐ Support
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/anishsethi)
+<!-- ======================================================= -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anish-Sethi-12122&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anish-Sethi-12122&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Sethi-12122&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anish-Sethi-12122&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:111827,100:1e3a8a&text=ANISH%20SETHI&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%40%20DTU%20%7C%20AI%20%2B%20Systems%20%2B%20Developer%20Tools&descSize=18&descAlignY=63&animation=fadeIn" width="100%" alt="Anish Sethi"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anish-Sethi-12122&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+things+that+probably+shouldn't+exist+yet.;AI+%C2%B7+Systems+%C2%B7+Developer+Tools+%C2%B7+Security;From+%22what+if%3F%22+to+%22it+works.%22;Build+it.+Break+it.+Understand+it.+Build+it+better." alt="Typing animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/Anish-Sethi-12122">
+<img src="https://img.shields.io/badge/GitHub-Anish--Sethi--12122-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/anish-sethi-dtu-cse/">
+<img src="https://img.shields.io/badge/LinkedIn-Anish%20Sethi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sethi.dynasty123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Anish-Sethi-12122&label=PROFILE%20VIEWS&style=for-the-badge&color=1f6feb" alt="Profile views"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anish-Sethi-12122&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ======================================================= -->
+
+<!--                       INTRO                             -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 👋 Hey, I'm Anish.
+
+### I don't just learn technologies.
+
+### I build things with them.
+
+</div>
+
+I'm a **Computer Science student at Delhi Technological University (DTU)** interested in the intersection of:
+
+**🤖 Artificial Intelligence · ⚙️ Systems · 🛠️ Developer Tools · 🔐 Security · 🚀 Product Engineering**
+
+I enjoy taking vague ideas, weird technical problems, and ambitious prototypes and turning them into **working software**.
+
+Currently exploring:
+
+**AI systems · LLMs · RAG · local inference · backend architecture · security · developer experience**
+
+> **Build it. Break it. Understand it. Build it better.**
+
+---
+
+<!-- ======================================================= -->
+
+<!--                    QUICK SNAPSHOT                       -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# ⚡ The 30-Second Version
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🎓
+
+**DTU CSE**
+
+Computer Science
+Class of 2029
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+**9.50**
+
+Current CGPA
+
+</td>
+
+<td align="center" width="25%">
+
+### 🥉
+
+**3rd Place**
+
+Build With Gemma
+Hackathon
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**17+**
+
+Public Repositories
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JEE%20Advanced-AIR%207043-111827?style=flat-square" alt="JEE Advanced"/>
+<img src="https://img.shields.io/badge/JEE%20Main-99.46%20Percentile-111827?style=flat-square" alt="JEE Main"/>
+<img src="https://img.shields.io/badge/CBSE%20XII-97%25-111827?style=flat-square" alt="CBSE"/>
+<img src="https://img.shields.io/badge/GitHub%20Stars-23%2B-111827?style=flat-square" alt="GitHub Stars"/>
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+
+<!--                  FEATURED PROJECTS                      -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 🚀 Selected Work
+
+### A few things I've built because I couldn't stop thinking about them.
+
+</div>
+
+---
+
+# ⚖️ Legal.ai
+
+### `AI × Law × Accessibility`
+
+<img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+
+> **Making Indian legal information easier to understand.**
+
+Legal.ai is a citizen-first AI legal assistant designed around a **retrieval-first architecture**.
+
+It combines legal retrieval, semantic search, document understanding, multilingual interaction, voice input and real-time response streaming.
+
+### ✨ Highlights
+
+* 🧠 Retrieval-Augmented Generation
+* 🔎 Semantic vector search
+* 🕸️ LangGraph orchestration
+* 📄 Legal document processing
+* 🎙️ Voice interaction
+* 🌍 Multilingual support
+* ⚡ Real-time streaming
+* 📚 Grounded responses
+
+### 🏆 Result
+
+**🥉 3rd Place — Build With Gemma Hackathon**
+
+`Legal.ai-AIMS-Hackathon`
+
+---
+
+# 🗄️ PY DBMS
+
+### `Developer Experience × Databases × Security`
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Rich-111827?style=flat-square" alt="Rich"/>
+<img src="https://img.shields.io/badge/Argon2-111827?style=flat-square" alt="Argon2"/>
+<img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
+
+> **A MySQL client that doesn't look like it escaped from 1998.**
+
+PY DBMS is a terminal-first database client focused on **UX, security and developer productivity**.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:111827,100:1e3a8a&text=PY%20DBMS%20%7C%20A%20Modern%20MySQL%20CLI&fontSize=22&fontColor=ffffff" width="90%" alt="PY DBMS"/>
+
+</div>
+
+### 🔐 Built With
+
+* 🔑 Argon2 authentication
+* ⚙️ Multi-layer configuration
+* 📊 CSV / JSON exports
+* 🧾 Multi-line SQL
+* 🎨 Rich terminal UI
+* 🚩 Query-level flags
+* 🧪 Automated tests
+* 📦 PyPI packaging
+
+### 💡 Why I built it
+
+Because **developer tools are products too.**
+
+`py-dbms-cli`
+
+---
+
+# 🤖 AI Resume Screening Pipeline
+
+### `ML × NLP × Failure Analysis`
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/NLP-111827?style=flat-square" alt="NLP"/>
+<img src="https://img.shields.io/badge/TF--IDF-111827?style=flat-square" alt="TF-IDF"/>
+
+<div align="center">
+
+**Resume → Classification → Feature Extraction → Shortlisting**
+
+</div>
+
+An end-to-end ML pipeline exploring what happens when individually reasonable ML components are connected into a real decision system.
+
+The pipeline includes:
+
+* 📚 Multi-class classification across **24 roles**
+* 🔤 TF-IDF
+* 🧬 Feature engineering
+* 🌲 Random Forest
+* 📈 Logistic Regression
+* 🧪 Pipeline evaluation
+* 🔍 Failure analysis
+
+The most interesting result wasn't the model accuracy.
+
+It was discovering that:
+
+> **Good models can still produce a bad system.**
+
+One pipeline configuration ended up rejecting **99%+ of candidates**, exposing how distribution mismatch and chained model assumptions can dominate end-to-end behaviour.
+
+That failure was more educational than a perfect benchmark.
+
+---
+
+# ⚡ OPTIMA
+
+### `Local AI × Code Optimization × Privacy`
+
+<img src="https://img.shields.io/badge/Qwen-111827?style=flat-square" alt="Qwen"/>
+<img src="https://img.shields.io/badge/Llama.cpp-111827?style=flat-square" alt="Llama.cpp"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+
+> **What if your code optimizer didn't need to upload your code?**
+
+OPTIMA experiments with **local AI-powered code optimization**.
+
+Instead of sending source code to a remote API, inference happens locally.
+
+<div align="center">
+
+**SOURCE CODE**
+⬇️
+**STATIC ANALYSIS**
+⬇️
+**PROMPT BUILDER**
+⬇️
+**LOCAL LLM — Qwen / Llama.cpp**
+⬇️
+**OPTIMIZED CODE**
+
+</div>
+
+### 🧠 Engineering Problems Explored
+
+* 🖥️ Local inference
+* 🧵 Browser workers
+* 📡 Streaming generation
+* 🧠 Context limits
+* 📦 Large-input chunking
+* ⏱️ Model latency
+* 🛟 Fallback strategies
+* 🔒 Privacy-first architecture
+
+The core lesson:
+
+> **On-device AI gives you privacy — and then hands you every other problem.**
+
+`OPTIMA-personal-code-optimizer.v1`
+
+---
+
+# 💸 SPENT
+
+### `Minimalism × Finance × Product Design`
+
+A deliberately simple personal finance widget.
+
+No giant dashboard.
+
+No 17 charts.
+
+No spreadsheet disguised as an app.
+
+Just:
+
+<div align="center">
+
+### ₹ 1,240
+
+**spent today**
+
+`Keep it simple.`
+
+</div>
+
+Built with:
+
+**TypeScript · React · Nothing ecosystem**
+
+---
+
+<!-- ======================================================= -->
+
+<!--                    ENGINEERING                          -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 🧠 How I Think About Engineering
+
+</div>
+
+### 01 — The model isn't the product.
+
+A 90% accurate model can still produce a terrible system.
+
+---
+
+### 02 — Architecture becomes important surprisingly fast.
+
+The first version asks:
+
+> "Does it work?"
+
+The tenth version asks:
+
+> "Where does this code belong?"
+
+---
+
+### 03 — Constraints make engineering interesting.
+
+Local AI.
+
+Limited compute.
+
+Latency.
+
+Memory.
+
+Security.
+
+Privacy.
+
+These aren't annoyances.
+
+**They're the engineering problem.**
+
+---
+
+### 04 — Failure is data.
+
+I don't particularly trust projects where everything worked on the first attempt.
+
+The bugs, weird outputs, performance cliffs and unexpected failures usually teach me more.
+
+---
+
+### 05 — Developer experience matters.
+
+If a tool is technically impressive but painful to use...
+
+**it's still painful to use.**
+
+---
+
+<!-- ======================================================= -->
+
+<!--                    CURRENTLY                            -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 🔭 Currently Exploring
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 AI Systems
+
+* RAG
+* LLM pipelines
+* Agents
+* Multimodal AI
+* Local inference
+* Evaluation
+* Model behaviour
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙️ Systems
+
+* Backend architecture
+* Developer tooling
+* CLI applications
+* Databases
+* Configuration systems
+* Performance
+* Reliability
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🔐 Security
+
+* Cryptography
+* Secure authentication
+* Privacy-first systems
+* Local processing
+* Threat-aware architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Product Engineering
+
+* UX
+* Full-stack applications
+* Rapid prototyping
+* Open source
+* Turning experiments into products
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ======================================================= -->
+
+<!--                      TOOLBOX                            -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 🧰 My Toolbox
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,react,fastapi,pytorch,tensorflow,sklearn,numpy,pandas,opencv,mysql,postgres,sqlite,git,github,linux&perline=10" alt="Tech Stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-LLMs-111827?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/AI-RAG-111827?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI-Computer%20Vision-111827?style=for-the-badge" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Systems-CLI-111827?style=for-the-badge" alt="CLI"/>
+<img src="https://img.shields.io/badge/Security-Cryptography-111827?style=for-the-badge" alt="Cryptography"/>
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+
+<!--                   GITHUB STATS                          -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 📊 GitHub Activity
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anish-Sethi-12122&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Sethi-12122&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Anish-Sethi-12122&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+
+<!--                 CONTRIBUTION SNAKE                      -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Anish-Sethi-12122/Anish-Sethi-12122/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+
+<!--                     TROPHIES                            -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anish-Sethi-12122&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+
+<!--                   TERMINAL                             -->
+
+<!-- ======================================================= -->
+
+# 🖥️ `$ whoami`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:1e3a8a&text=anish%40dtu%20%7E%24%20whoami&fontSize=24&fontColor=ffffff" width="90%" alt="Terminal"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Computer Science student.**
+**Builder.**
+**AI/ML enthusiast.**
+**Systems nerd.**
+**Occasional over-engineer.**
+
+<br/>
+
+I like:
+
+**→ building developer tools**
+**→ breaking my own systems**
+**→ understanding why they broke**
+**→ experimenting with AI**
+**→ turning prototypes into products**
+
+<br/>
+
+### Current objective
+
+**Build something useful.**
+**Make it fast.**
+**Make it clean.**
+**Make it impossible to stop thinking about.**
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+
+<!--                    OPEN SOURCE                          -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 🌱 Open Source
+
+</div>
+
+I enjoy building software that goes beyond a classroom submission.
+
+My repositories explore:
+
+**AI/ML · Developer Tools · Databases · Security · Cryptography · CLI Apps · Web Apps · Experimental Systems**
+
+If you find something useful:
+
+**⭐ Star it · 🐛 Break it · 💡 Suggest something · 🔀 Fork it**
+
+---
+
+<!-- ======================================================= -->
+
+<!--                      CONNECT                            -->
+
+<!-- ======================================================= -->
+
+<div align="center">
+
+# 🤝 Let's Build Something
+
+### I'm always up for conversations about
+
+**AI · ML · Systems · Security · Developer Tools · Startups · Hackathons · Open Source**
+
+<br/>
+
+<a href="https://github.com/Anish-Sethi-12122">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anish-sethi-dtu-cse/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:sethi.dynasty123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://buymeacoffee.com/anishsethi">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+</a>
+
+<br/><br/>
+
+### `Still building. Still breaking things. Still figuring out why they broke.`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e3a8a,50:111827,100:0f172a" width="100%" alt="Footer"/>
+
+</div>
