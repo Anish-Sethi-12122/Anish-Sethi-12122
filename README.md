@@ -76,7 +76,7 @@ Class of 2029
 
 ### 📈
 
-**9.50**
+**9.20**
 
 Current CGPA
 
@@ -84,20 +84,9 @@ Current CGPA
 
 <td align="center" width="25%">
 
-### 🥉
-
-**3rd Place**
-
-Build With Gemma
-Hackathon
-
-</td>
-
-<td align="center" width="25%">
-
 ### 💻
 
-**17+**
+**19**
 
 Public Repositories
 
