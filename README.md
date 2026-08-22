@@ -12,9 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-Anish--Sethi--12122-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://portfolio-anish-sethi.netlify.app/">
-<img src="https://img.shields.io/badge/portfolio-anish-sethi.netlify.app?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-anish--sethi.netlify.app-blue?style=for-the-badge)](https://portfolio-anish-sethi.netlify.app/)
 
 <a href="https://www.linkedin.com/in/anish-sethi-dtu-cse/">
 <img src="https://img.shields.io/badge/LinkedIn-Anish%20Sethi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
